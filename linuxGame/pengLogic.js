@@ -2,10 +2,10 @@ var myGamePiece;
 var flipped = 1;
 
 var peng = new Image();
-peng.src = "/linuxGame/peng.png";
+peng.src = "linuxGame/peng.png";
 
 var pengRev = new Image();
-pengRev.src = "/linuxGame/pengRev.png";
+pengRev.src = "linuxGame//pengRev.png";
 
 var currentChar = peng;
 
